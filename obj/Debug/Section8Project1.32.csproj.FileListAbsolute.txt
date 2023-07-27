@@ -1,0 +1,8 @@
+D:\27July\Section8Project1.32\Section8Project1.32\obj\Debug\Section8Project1.32.csproj.AssemblyReference.cache
+D:\27July\Section8Project1.32\Section8Project1.32\obj\Debug\Section8Project1.32.csproj.SuggestedBindingRedirects.cache
+D:\27July\Section8Project1.32\Section8Project1.32\obj\Debug\Section8Project1.32.csproj.CoreCompileInputs.cache
+D:\27July\Section8Project1.32\Section8Project1.32\bin\Debug\Section8Project1.32.exe.config
+D:\27July\Section8Project1.32\Section8Project1.32\bin\Debug\Section8Project1.32.exe
+D:\27July\Section8Project1.32\Section8Project1.32\bin\Debug\Section8Project1.32.pdb
+D:\27July\Section8Project1.32\Section8Project1.32\obj\Debug\Section8Project1.32.exe
+D:\27July\Section8Project1.32\Section8Project1.32\obj\Debug\Section8Project1.32.pdb
